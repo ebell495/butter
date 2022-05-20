@@ -1,0 +1,8 @@
+project: butter
+target: butter-type
+
+image: ghcr.io/ebell495/butter:latest
+duration: 300
+
+cmds:
+    - cmd: ./butter/butter type-repl
