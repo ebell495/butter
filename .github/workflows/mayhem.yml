@@ -62,15 +62,3 @@ jobs:
         uses: github/codeql-action/upload-sarif@v1
         with:
           sarif_file: sarif
-      
-      - name: Start analysis on type system
-        uses: ForAllSecure/mcode-action@v1
-        with:
-          mayhem-token: ${{ secrets.MAYHEM_TOKEN }}
-          args: --image ${{ steps.meta.outputs.tags }} --duration 300 -f Mayhemfile-type
-          sarif-output: sarif
-
-      - name: Upload SARIF file(s)
-        uses: github/codeql-action/upload-sarif@v1
-        with:
-          sarif_file: sarif
