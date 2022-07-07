@@ -1,5 +1,9 @@
 # ![Butter](butter_text_only.svg)
 
+> **⚠ Note:** This project is currently paused.
+
+---
+
 [Documents](./doc/README.md) | [Contributing Guidelines](./CONTRIBUTING.md)
 
 A tasty language for building efficient software.
@@ -40,7 +44,7 @@ Being my personal project, designs and features are ultimately up for my decisio
 
 ## Road map
 
-![A road map for the Butter programming language, depicted in the form style a retro video game map. A single road snakes from right-to-left, with multiple stops, ending with a causeway leading to a castle in the middle of a lake. A flag is placed on the first stop. The project mascot (a cute yellow bear) is at the second stop and exclaims "Let's Go!". The stops on the road are: parser, Hindley-Milner with row polymorphism, IR, lifetime analysis, refinement types, and finally LLVM. An enormous dragon looms behind the castle.](./roadmap.webp)
+![A road map for the Butter programming language, depicted in the form style a retro video game map. A single road snakes from right-to-left, with multiple stops, ending with a causeway leading to a castle in the middle of a lake. A flag is placed on the first stop. The project mascot (a cute yellow bear) is at the second stop and exclaims "Let's Go!". The stops on the road are: parser, Hindley-Milner with row polymorphism, IR, lifetime analysis, refinement types, and finally LLVM. An enormous dragon looms behind the castle. The whole picture have a dark overlay with text "game paused" in the center](./roadmap.webp)
 
 [More details](https://github.com/neverRare/butter/projects/1)
 

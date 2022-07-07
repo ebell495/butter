@@ -1,5 +1,9 @@
 # Contributing Guidelines
 
+> **Note:** Despite what this document says, The owner may not be able to take actions on these contributions at the moment.
+
+---
+
 Thank you for taking your time contributing. I'll address these contributions as soon as possible.
 
 ## Opening an issue
